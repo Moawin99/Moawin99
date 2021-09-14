@@ -3,7 +3,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://vercel.com/moawin99//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cff4115c062a431f&nd)
+[<img src="https://spotify-now-playing-gyr0h5vp7-moawin99.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/b6146982f8084775)
 
 
 
