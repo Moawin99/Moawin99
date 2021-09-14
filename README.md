@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moawin99&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Moawin99's Github stats](https://github-readme-stats.vercel.app/api?username=Moawin99&show_icons=true&theme=radical)
 
 ### Currently Listening To 🎧
