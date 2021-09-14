@@ -1,6 +1,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moawin99&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Moawin99's Github stats](https://github-readme-stats.vercel.app/api?username=Moawin99&show_icons=true&theme=radical)
 
+### Spotify Playing 🎧
+
+[<img src="https://vercel.com/moawin99//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/cff4115c062a431f&nd)
+
 
 
 
